@@ -7,22 +7,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Kingdom!;I+love+programming+very+much" />
 </p>
-<!--
 
-<table rules="none" align="center">
-		<td>
-			<center>
-				<img src="https://github-readme-stats.vercel.app/api?username=zhengPK&show_icons=true&theme=tokyonight&include_all_commits=true" width="100%" />
-				</img>
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengPK&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&hide=EJS,GLSL,CSS,HTML,Stylus" width="100%" />
-				</img>
-			</center>
-		</td>
-</table>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=zhengPK&show_icons=true&theme=transparent&include_all_commits=true" width="80%" />
+</p>
 
 
 <p align="center">
@@ -47,5 +35,5 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Happy%20development&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
